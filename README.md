@@ -3,7 +3,7 @@
 A sleek Java-based version of the **classic 2048 puzzle game**, built using Java and Swing!  
 Slide, merge, and chase that golden tile! ✨
 
-![2048 Game Screenshot](Screenshot%202025-04-17%20234241.png)
+![2048 Game Screenshot](2048%20Game.png)
 
 ---
 
